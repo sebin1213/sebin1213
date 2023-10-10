@@ -59,3 +59,7 @@
   [![Sevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebin1213&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/sebin1213/github-readme-stats)
 </div>
 
+---
+
+<h3 align="">📃 Blog 📃</h3>
+https://velog.io/@hope1213
