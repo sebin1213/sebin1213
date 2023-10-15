@@ -44,8 +44,6 @@
 <img src="https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/dlib-008000.svg?&style=for-the-badge&logo=dlib&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-43B02A.svg?&style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/dlib-008000.svg?&style=for-the-badge&logo=dlib&logoColor=white">
-<img src="https://img.shields.io/badge/mediapipe-008000.svg?&style=for-the-badge&logo=mediapipe&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white">
