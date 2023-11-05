@@ -32,14 +32,12 @@
 <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/github%20action-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazon%20cloud%20watch-FF4F8B.svg?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white">
-<img src="https://img.shields.io/badge/lambda-FF9900.svg?&style=for-the-badge&logo=lambda&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/dlib-008000.svg?&style=for-the-badge&logo=dlib&logoColor=white">
